@@ -9,7 +9,7 @@ CardioScan AI is a machine learning-based web application that predicts the risk
 ## 🚀 Live Demo
 
 👉 *Add your deployed link here*
-Example: https://your-app-name.streamlit.app
+
 
 ---
 
